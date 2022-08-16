@@ -4,7 +4,7 @@
 <br> 
 <h2 align="left">📍 About Me</h2>
 
-👨🏻‍💻 I'm currently developing mobile applications with android studio.
+👨🏻‍💻 I'm currently developing mobile applications with Android Studio.
 <br>
 🙌🏻 I'm a software engineer who loves the whole process of developing mobile eapplications and games.
 <br>
