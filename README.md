@@ -34,3 +34,9 @@
 <div>   
 <a href="https://www.linkedin.com/in/hamzaoban/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://medium.com/@hamzaoban3"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a></div>    
+
+  ![Snake animation](https://github.com/HamzaOban/HamzaOban/blob/output/github-contribution-grid-snake.svg)
+  
+   <a href="https://github.com/HamzaOban">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HamzaOban.HamzaOban&style=for-the-badge">
+<a>
