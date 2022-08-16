@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<h3>🛠  Tech Stack</h3>
+<h2>🛠  Tech Stack</h2>
 <div style="display: inline_block">
 <img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">  
 <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">  
