@@ -20,9 +20,9 @@
 </div>
 
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=HamzaOban&theme=merko&background=000000"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&theme=radical"/>  
+<img height="140em" src="https://streak-stats.demolab.com?user=HamzaOban&theme=merko&background=000000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&theme=radical"/>  
 </div>
   
 <h2>🛠  Tech Stack</h2>
