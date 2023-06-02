@@ -24,8 +24,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
 </div>
   
+<div align="center">  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=pie)](https://github.com/HamzaOban/github-readme-stats)
-  
+</div> 
   
 
 
