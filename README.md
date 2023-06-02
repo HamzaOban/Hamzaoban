@@ -20,18 +20,11 @@
 </div>
 
 <div align="center">
-<img height="360em" src="https://streak-stats.demolab.com?user=HamzaOban&theme=merko&background=000000"/>
-<img height="360em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
+<img height="240em" src="https://streak-stats.demolab.com?user=HamzaOban&theme=merko&background=000000"/>
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&theme=radical"/>  
 </div>
   
-<div align="center">  
-<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&theme=radical"/>  
-</div> 
-  
-
-
-
-
 <h2>🛠  Tech Stack</h2>
 <div style="display: inline_block">
 <img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
