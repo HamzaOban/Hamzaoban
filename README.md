@@ -25,7 +25,7 @@
 </div>
   
 <div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=pie"/>  
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=pie"/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=pie)](https://github.com/HamzaOban/github-readme-stats)
 </div> 
