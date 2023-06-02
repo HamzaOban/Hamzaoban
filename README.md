@@ -23,7 +23,7 @@
 <img height="180em" src="https://streak-stats.demolab.com?user=HamzaOban&theme=merko&background=000000"/>
 </div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaOban&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=compact&langs_count=7&theme=highcontrast"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOban&layout=pie)](https://github.com/HamzaOban/github-readme-stats)
 <br>
 
 <h2>🛠  Tech Stack</h2>
